@@ -1,4 +1,4 @@
-# monster_rpg
+# Monster RPG
 ### Developed with HTML, CSS, JavaScript.  
 <hr>
 
